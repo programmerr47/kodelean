@@ -1,1 +1,1 @@
-include ':sample', ':kodelean-core', ':kodelean-android'
+include ':sample', ':kodelean-core', ':kodelean-android', ':kodelean-reflect'
